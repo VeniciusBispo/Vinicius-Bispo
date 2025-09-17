@@ -1,9 +1,9 @@
-Olá! Meu nome é Gustavo Correia, sou um desenvolvedor Full Stack.<br><br>Atualmente, estou aprendendo mais sobre [Aws,Docker,flutter e dart] e sempre aberto a novas oportunidades de aprendizado e colaboração.
+Olá! Meu nome éV Vinicius Bispo, sou um desenvolvedor Full Stack.<br><br>Atualmente, estou aprendendo mais sobre [Aws,Docker,flutter e dart] e sempre aberto a novas oportunidades de aprendizado e colaboração.
 
 Estudante de Sistemas de Informação na Universidade Federal de Sergipe
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-correia-2901/)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@GuTsfordevs) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venicius-bispo-386323229/)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,5 +24,5 @@ Estudante de Sistemas de Informação na Universidade Federal de Sergipe
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Correia&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Estatísticas do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VeniciusBispo&theme=neon&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Estatísticas do GitHub">
 </p>
