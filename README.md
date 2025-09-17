@@ -1,4 +1,4 @@
-Olá! Meu nome éV Vinicius Bispo, sou um desenvolvedor Full Stack.<br><br>Atualmente, estou aprendendo mais sobre [Aws,Docker,flutter e dart] e sempre aberto a novas oportunidades de aprendizado e colaboração.
+Olá! Meu nome é Vinicius Bispo, sou um desenvolvedor Full Stack.<br><br>Atualmente, estou aprendendo mais sobre [Aws,Docker,flutter e dart] e sempre aberto a novas oportunidades de aprendizado e colaboração.
 
 Estudante de Sistemas de Informação na Universidade Federal de Sergipe
 
